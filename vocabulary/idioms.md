@@ -98,3 +98,10 @@ Examples:
 - When the two teams met last year, they were evenly matched. This year, the Warriors blew the Cavaliers out of the water.
 
 > First apperance: Even though the convnet will be basic, its accuracy will blow out of the water that of the densely connected model from chapter2.
+
+### two peas in a pod
+Two people who are very similar, typically in interests, dispositions, or beliefs.
+Examples:
+- Those kids have the same wacky sense of humor—they're truly like two peas in a pod.
+- They're like two peas in a pod, of course they're married!
+> First apperance: Elizabath Taylor and Michael Jackson were two peas in one odd pod.

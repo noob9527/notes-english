@@ -1,4 +1,4 @@
-# Symbols
+# Symbol, Punctuation
 
 | Symbol | English                  |
 | -      | -                        |

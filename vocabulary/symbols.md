@@ -6,3 +6,4 @@
 | []     | brackets/square brackets |
 | <>     | angled brackets          |
 | ()     | parentheses              |
+| '     | apostrophe([əˈpɑstrəfi])/single quote |

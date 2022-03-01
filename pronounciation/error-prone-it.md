@@ -16,6 +16,7 @@
 | Azure      | ✅ ['æʒə]            | ❌ [ˈæzʊʒə]             |
 | bind       | ✅ [baɪnd]           | ❌ [bɪnd]               |
 | cache      | ✅ [kæʃ]             | ❌ [kætʃ]               |
+| capacity   | ✅ [kəˈpæsəti]       | ❌ ['kəpæsəti]          |
 | Daemon     | ✅ ['diːmən]         | ❌ [dæmən]              |
 | deque      | ✅ ['dek]            | ❌ [di'kju]             |
 | Django     | ✅ [ˈdʒæŋɡoʊ]        | ❌ [diˈdʒæŋɡoʊ]         |
@@ -34,6 +35,7 @@
 | margin     | ✅ ['mɑːdʒɪn]        | ❌ ['mʌgɪn]             |
 | matrix     | ✅ [ˈmeɪtrɪks]       | ❌ [ˈmɑ:trɪks]          |
 | maven      | ✅ ['meɪvn]          | ❌ ['maːvn]             |
+| method     | ✅ [ˈmeθəd]          | ❌ [meˈθəd]             |
 | module     | ✅ [ˈmɑdʒul]         | ❌ ['məʊdl]             |
 | null       | ✅ [nʌl]             | ❌ [naʊ]                |
 | parameter  | ✅ [pə'ræmɪtə]       | ❌ ['pærəmɪtə]          |

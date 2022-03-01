@@ -19,14 +19,14 @@
 | Wales            | Welsh          | British / Welsh          | Welshman / Welshwoman                   |
 
 ### Western Europe
-| Country     | Adjective | Nationality | Inhabitant              |
-| ----------- | --------- | ----------- | ----------------------- |
-| Austria     | Austrian  | Austrian    | Austrian                |
-| Belgium     | Belgian   | Belgian     | Belgian                 |
-| France      | French    | French      | Frenchman / Frenchwoman |
-| Germany     | German    | German      | German                  |
-| Netherlands | Dutch     | Dutch       | Dutchman / Dutchwoman   |
-| Switzerland | Swiss     | Swiss       | Swiss                   |
+| Country     | Adjective | Nationality | Inhabitant              | IPA         |
+| ----------- | --------- | ----------- | ----------------------- | ----------- |
+| Austria     | Austrian  | Austrian    | Austrian                |             |
+| Belgium     | Belgian   | Belgian     | Belgian                 | [ˈbeldʒɪəm] |
+| France      | French    | French      | Frenchman / Frenchwoman |             |
+| Germany     | German    | German      | German                  |             |
+| Netherlands | Dutch     | Dutch       | Dutchman / Dutchwoman   |             |
+| Switzerland | Swiss     | Swiss       | Swiss                   |             |
 
 ### Southern Europe
 | Country    | Adjective           | Nationality         | Inhabitant          |

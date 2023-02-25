@@ -28,3 +28,4 @@
 | register     | ✅ ['redʒɪstər]         |               |
 | represent    | ✅ [.reprɪ'zent]        |               |
 | suffix       | ✅ ['sʌfɪks]            |               |
+| gauge       | ✅ [ɡeɪdʒ]            |               |

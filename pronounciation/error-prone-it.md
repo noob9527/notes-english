@@ -52,3 +52,4 @@
 | Ubuntu     | ✅ [ʊ'bʊntʊ]         | ❌ [juː'bʊntʊ]          |
 | variable   | ✅ ['veəriəbl]       | ❌ [və'raiəbl]          |
 | YouTube    | ✅ ['juː'tjuːb]      | ❌ ['juː'tʊbɪ]          |
+| ethernet    | ✅ ['iθər.net]      | ❌ ['eθər.net]          |

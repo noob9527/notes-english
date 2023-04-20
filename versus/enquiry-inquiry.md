@@ -1,7 +1,8 @@
 # enquiry vs inquiry
-Wound and injury are both used to describe damage to the body, but a wound is generally caused by a weapon and it is usually intentional.
 
-> The verbs inquire and enquire are synonyms for the verbs ask or investigate. In US English, you should use inquire in all situations. In British English, use inquire for formal investigations and enquire for less formal questioning. -- [source](https://www.gingersoftware.com/english-online/spelling-book/confusing-words/inquiry-enquiry)
+> In US English, you should always use inquiry and inquire, regardless of the formality of the investigation. In British English, inquiry and inquire are used to describe formal/official investigations and lines of questioning, whereas enquire and enquiry are used in less formal investigations.
 
 # refereces
 - https://getproofed.com.au/writing-tips/enquiry-vs-inquiry/
+- https://www.gingersoftware.com/english-online/spelling-book/confusing-words/inquiry-enquiry
+http://www.differencebetween.net/language/difference-between-enquiry-and-inquiry/

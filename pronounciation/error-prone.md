@@ -18,7 +18,9 @@
 | execute      | ✅ [ˈeksəˌkjut]         | ❌ [ɪksɪ'kjut] |
 | execution    | ✅ [ˌeksəˈkjuʃ(ə)n]     |               |
 | garage       | ✅ [ɡəˈrɑdʒ]            |               |
+| gauge        | ✅ [ɡeɪdʒ]              |               |
 | giraffe      | ✅ [dʒəˈræf]            |               |
+| local        | ✅ [ˈloʊk(ə)l]          | ❌ [ˈlok(ə)l] |
 | mature       | ✅ [mə'tʃʊə(r)]         |               |
 | occupy       | ✅ ['ɑkjə.paɪ]          |               |
 | periodically | ✅ [ˌpɪr.iˈɑː.dɪ.kəl.i] |               |
@@ -27,5 +29,6 @@
 | purpose      | ✅ ['pɜrpəs]            | ❌ ['pɜrpəʊs]  |
 | register     | ✅ ['redʒɪstər]         |               |
 | represent    | ✅ [.reprɪ'zent]        |               |
+| sergeant     | ✅ [ˈsɑrdʒənt]          | ❌ ['sɜrdʒənt] |
 | suffix       | ✅ ['sʌfɪks]            |               |
-| gauge       | ✅ [ɡeɪdʒ]            |               |
+| thumb        | ✅ [θʌm]                | ❌ [θʌmb]      |

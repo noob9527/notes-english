@@ -29,6 +29,7 @@
 | prerequisite | ✅ [pri'rekwəzɪt]       |                      |
 | purpose      | ✅ ['pɜrpəs]            | ❌ ['pɜrpəʊs]         |
 | register     | ✅ ['redʒɪstər]         |                      |
+| renaissance  | ✅ [ˈrenəsɑːns]         |                      |
 | represent    | ✅ [.reprɪ'zent]        |                      |
 | sergeant     | ✅ [ˈsɑrdʒənt]          | ❌ ['sɜrdʒənt]        |
 | suffix       | ✅ ['sʌfɪks]            |                      |

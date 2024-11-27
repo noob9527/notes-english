@@ -9,6 +9,8 @@
 | camel        | ✅ [ˈkæməl]             |                      |
 | chaos        | ✅ ['keɪ.ɑs]            |                      |
 | chore        | ✅ [tʃɔːr]              |                      |
+| cloth        | ✅ [klɒθ]              |                      |
+| clothes      | ✅ [kloʊðz]              |                      |
 | civilian     | ✅ [sɪ'vɪljən]          | ❌ ['sɪvɪljən]        |
 | consultation | ✅ [ˌkɑns(ə)lˈteɪʃ(ə)n] | ❌ [ˌkənsʌl'teɪʃ(ə)n] |
 | decade       | ✅ ['dekeɪd]            | ❌ [dɪ'keɪd]          |
